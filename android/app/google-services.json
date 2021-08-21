@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263385981722",
+    "project_id": "airport-solution",
+    "storage_bucket": "airport-solution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263385981722:android:5cb6709ebe51181fa202a3",
+        "android_client_info": {
+          "package_name": "com.example.airport_solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263385981722-n27kq4cji3psk0ca2udhvm5l8ddne06r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airport_solution",
+            "certificate_hash": "87ec351a3f9dbb93c1882d5d992f9c47515c55d9"
+          }
+        },
+        {
+          "client_id": "263385981722-43rv1ob7065on1l23crcehudgouphoek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg-hXg7XtuUG6cmxlNz7ZFYoDStVQo43Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263385981722-43rv1ob7065on1l23crcehudgouphoek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
